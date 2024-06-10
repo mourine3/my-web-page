@@ -1,0 +1,65 @@
+  body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-image: url("https://media.macphun.com/img/uploads/customer/blog/1352/16843052446464755c3a0dd3.48322926.jpg?q=85&w=1680");
+  }
+
+  header {
+      background-color: #343a40;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+  }
+
+  nav {
+      background-color: #212529;
+      text-align: center;
+      padding: 10px 0;
+  }
+
+  nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 10px;
+  }
+
+  nav a:hover {
+      text-decoration: underline;
+  }
+
+  .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+  }
+
+  h1,
+  h2,
+  h3 {
+      color: #272343;
+  }
+
+  p,
+  address {
+      line-height: 1.6;
+      color: #004445;
+      font-style: bold;
+  }
+
+  blockquote {
+      font-style: italic;
+      margin: 20px 0;
+  }
+
+  ul {
+      list-style-type: none;
+      padding-left: 0;
+      color: #702283;
+      font-size: 25px;
+  }
+
+  figure {
+      margin: 0;
+      text-align: center;
+  }
